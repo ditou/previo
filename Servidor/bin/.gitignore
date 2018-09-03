@@ -1,0 +1,12 @@
+/.classpath
+/.project
+/controlador/
+/dao/
+/entity/
+/hibernate.properties
+/lib/
+/model/
+/remoteImplementation/
+/server/
+/test/
+/util/
